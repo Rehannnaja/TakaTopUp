@@ -24,6 +24,7 @@ TakaTopUp adalah platform top up **interaktif** bertema **black hole futuristik*
 - 🎞️ Framer Motion (Animasi)
 - 🕳️ p5.js / Canvas (Black hole effect)
 - 🔗 WhatsApp Checkout (Tanpa database)
-- ☁️ Vercel (Deploy & hosting)
 
 ---
+
+## 🌠 @TAKADEVELOPMENT 2025
