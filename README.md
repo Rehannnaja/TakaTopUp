@@ -27,4 +27,10 @@ TakaTopUp adalah platform top up **interaktif** bertema **black hole futuristik*
 
 ---
 
-## 🌠 @TAKADEVELOPMENT 2025
+🧠 Kontributor
+👾 Takashin — Developer & UI Visionary
+
+"Design is not decoration, it’s immersion."
+
+📜 Lisensi
+MIT License © 2025 — TakaTopUp
