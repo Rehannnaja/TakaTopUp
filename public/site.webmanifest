@@ -1,0 +1,26 @@
+{
+  "name": "TakaTopUp",
+  "short_name": "TakaTopUp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#3b82f6",
+  "description": "TakaTopUp adalah situs top up game terpercaya dengan desain interaktif bertema black hole.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/images/mlbb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/mlbb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
